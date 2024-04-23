@@ -1,0 +1,1 @@
+This repository contains the code and resources for my Cloud Resume Challenge submission. The Cloud Resume Challenge is a fun and hands-on way to showcase your cloud computing skills by building and deploying a dynamic, cloud-hosted resume website.
